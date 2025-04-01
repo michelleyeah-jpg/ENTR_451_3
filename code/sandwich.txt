@@ -1,0 +1,10 @@
+estimate: 10 lines
+
+Fetch a piece of bread
+Fetch peanut butter
+Spread peanut butter on square white side of bread
+Fetch jam
+Spread jam evenly on farthest surface of peanut butter from the bread
+Fetch a piece of bread
+Put new bread's square white side on jam's side which is the farthest surface from the old bread
+Complete peanut butter jam sandwich 
